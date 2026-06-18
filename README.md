@@ -1,4 +1,4 @@
-# NIMBLE_Vision-Based_Ball_Balancing_and_Trajectory_Tracking_Robot
+# NIMBLE: Vision-Based Ball Balancing and Trajectory Tracking Robot
 
 <img width="4659" height="6596" alt="EMS_Exhibition_Poster_HD" src="https://github.com/user-attachments/assets/78765b85-8bab-4371-8d5e-ec58bf8cb80f" />
 
