@@ -1,4 +1,8 @@
 # NIMBLE: Vision-Based Ball Balancing and Trajectory Tracking Robot
+## License
+Released under the MIT License (see LICENSE). If you use or adapt this work,
+please credit the NIMBLE team (Ahmed Shawki, Farah Abdelaal, Zeina Abdelaal)
+and link to this repository.
 
 <img width="4659" height="6596" alt="EMS_Exhibition_Poster_HD" src="https://github.com/user-attachments/assets/78765b85-8bab-4371-8d5e-ec58bf8cb80f" />
 
